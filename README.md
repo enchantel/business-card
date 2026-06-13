@@ -1,3 +1,7 @@
+<img width="445" height="197" alt="image" src="https://github.com/user-attachments/assets/8e8ca38c-5dd9-4370-9bb6-981ee0144cb0" />
+
+<br>
+
 # Getting Started
 Install the dependencies and run the project
 ```
